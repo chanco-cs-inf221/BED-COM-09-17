@@ -1,0 +1,53 @@
+body{
+    border: solid;
+    padding: 10px;
+    margin: 10px;
+    background-image: url(images/pic.jpg)
+}
+h2{
+    text-align: center;
+    color: indigo;
+}
+
+img{
+    border-radius: 10%;
+}
+.image{
+    padding: 3px;
+    border: brown solid;
+}
+.Projects{
+    width: 80%;
+    overflow: hidden;
+    background: paleturquoise;
+    margin: 20px auto;
+    padding: 20px;
+    border: solid;
+
+}
+.Projects ul{
+    margin: 0px;
+    border: rebeccapurple solid auto;
+    padding: 0px;
+}
+.Projects ul li {
+    list-style: none;
+    float: left;
+    height: 250px;
+    width: 20%;
+    margin: 40px 40px 0px 50px;
+    border: orange solid;
+    background : pink;
+}
+.Projects ul li .Section{
+    height: 35px;
+    background: brown;
+    text-align: center;
+    width: 100%;
+}
+.MyExperience{
+    padding: 2px;
+    text-align: left;
+    border: solid;
+    color: red;
+}
